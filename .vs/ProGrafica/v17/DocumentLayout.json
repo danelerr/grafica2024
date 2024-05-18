@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UAGRM\\Programaci\u00F3n gr\u00E1fica\\Almendras\\Grafica_Proyecto1_2_2023-main\\Grafica_Proyecto1_2_2023-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC726144-A971-43CE-8A5A-62E2D6CBE1AC}|ProGrafica.csproj|d:\\uagrm\\programaci\u00F3n gr\u00E1fica\\almendras\\grafica_proyecto1_2_2023-main\\grafica_proyecto1_2_2023-main\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC726144-A971-43CE-8A5A-62E2D6CBE1AC}|ProGrafica.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC726144-A971-43CE-8A5A-62E2D6CBE1AC}|ProGrafica.csproj|D:\\UAGRM\\Programaci\u00F3n gr\u00E1fica\\Almendras\\Grafica_Proyecto1_2_2023-main\\Grafica_Proyecto1_2_2023-main\\escena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC726144-A971-43CE-8A5A-62E2D6CBE1AC}|ProGrafica.csproj|solutionrelative:escena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC726144-A971-43CE-8A5A-62E2D6CBE1AC}|ProGrafica.csproj|D:\\UAGRM\\Programaci\u00F3n gr\u00E1fica\\Almendras\\Grafica_Proyecto1_2_2023-main\\Grafica_Proyecto1_2_2023-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC726144-A971-43CE-8A5A-62E2D6CBE1AC}|ProGrafica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC726144-A971-43CE-8A5A-62E2D6CBE1AC}|ProGrafica.csproj|d:\\uagrm\\programaci\u00F3n gr\u00E1fica\\almendras\\grafica_proyecto1_2_2023-main\\grafica_proyecto1_2_2023-main\\acciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC726144-A971-43CE-8A5A-62E2D6CBE1AC}|ProGrafica.csproj|solutionrelative:acciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC726144-A971-43CE-8A5A-62E2D6CBE1AC}|ProGrafica.csproj|d:\\uagrm\\programaci\u00F3n gr\u00E1fica\\almendras\\grafica_proyecto1_2_2023-main\\grafica_proyecto1_2_2023-main\\transformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC726144-A971-43CE-8A5A-62E2D6CBE1AC}|ProGrafica.csproj|solutionrelative:transformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Escena.cs",
+              "DocumentMoniker": "D:\\UAGRM\\Programaci\u00F3n gr\u00E1fica\\Almendras\\Grafica_Proyecto1_2_2023-main\\Grafica_Proyecto1_2_2023-main\\Escena.cs",
+              "RelativeDocumentMoniker": "Escena.cs",
+              "ToolTip": "D:\\UAGRM\\Programaci\u00F3n gr\u00E1fica\\Almendras\\Grafica_Proyecto1_2_2023-main\\Grafica_Proyecto1_2_2023-main\\Escena.cs",
+              "RelativeToolTip": "Escena.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T01:31:30.474Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Acciones.cs",
+              "DocumentMoniker": "D:\\UAGRM\\Programaci\u00F3n gr\u00E1fica\\Almendras\\Grafica_Proyecto1_2_2023-main\\Grafica_Proyecto1_2_2023-main\\Acciones.cs",
+              "RelativeDocumentMoniker": "Acciones.cs",
+              "ToolTip": "D:\\UAGRM\\Programaci\u00F3n gr\u00E1fica\\Almendras\\Grafica_Proyecto1_2_2023-main\\Grafica_Proyecto1_2_2023-main\\Acciones.cs",
+              "RelativeToolTip": "Acciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:35:43.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UAGRM\\Programaci\u00F3n gr\u00E1fica\\Almendras\\Grafica_Proyecto1_2_2023-main\\Grafica_Proyecto1_2_2023-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\UAGRM\\Programaci\u00F3n gr\u00E1fica\\Almendras\\Grafica_Proyecto1_2_2023-main\\Grafica_Proyecto1_2_2023-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T04:50:19.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.cs",
+              "DocumentMoniker": "D:\\UAGRM\\Programaci\u00F3n gr\u00E1fica\\Almendras\\Grafica_Proyecto1_2_2023-main\\Grafica_Proyecto1_2_2023-main\\game.cs",
+              "RelativeDocumentMoniker": "game.cs",
+              "ToolTip": "D:\\UAGRM\\Programaci\u00F3n gr\u00E1fica\\Almendras\\Grafica_Proyecto1_2_2023-main\\Grafica_Proyecto1_2_2023-main\\game.cs",
+              "RelativeToolTip": "game.cs",
+              "ViewState": "AQIAAHgBAAAAAAAAAAAQwI8BAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:38:52.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transformacion.cs",
+              "DocumentMoniker": "D:\\UAGRM\\Programaci\u00F3n gr\u00E1fica\\Almendras\\Grafica_Proyecto1_2_2023-main\\Grafica_Proyecto1_2_2023-main\\Transformacion.cs",
+              "RelativeDocumentMoniker": "Transformacion.cs",
+              "ToolTip": "D:\\UAGRM\\Programaci\u00F3n gr\u00E1fica\\Almendras\\Grafica_Proyecto1_2_2023-main\\Grafica_Proyecto1_2_2023-main\\Transformacion.cs",
+              "RelativeToolTip": "Transformacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:45:47.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
